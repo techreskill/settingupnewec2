@@ -48,3 +48,9 @@ You can restart MongoDB with:
 ```bash
 docker restart mongodb
 ```
+
+### To Test
+
+```bash
+curl -sSL https://raw.githubusercontent.com/techreskill/settingupnewec2/main/verify_install.sh | sudo bash
+```
